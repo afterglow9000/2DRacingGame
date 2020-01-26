@@ -1,1 +1,30 @@
-# 2DRacingGame
+# 2D Racing Game
+
+## References
+
+1. [Create 2D Car Racing Game](https://youtu.be/r7J-wiJGK1w)
+2. [Creating Racing Track](https://youtu.be/Sah9I9-NHdw)
+3. [Moving the Car](https://youtu.be/Mo6Ta8DrLkA)
+4. [Controlling the Car with Arrow Keys](https://youtu.be/ulAich4zmaA)
+5. [Restricting Car Movement](https://youtu.be/gxQqu7VE1u4)
+6. [Adding Enemy Car](https://youtu.be/c0NJSWYouoU)
+7. [Enemy Cars In Random Position](https://youtu.be/azOMIn2Hc7I)
+8. [Spawning Enemy Cars](https://youtu.be/TSDvzxeWjDI)
+9. [Car Collisions](https://youtu.be/eX34G9O3wUc)
+10. [Improve Performance Removing Extra Cars](https://youtu.be/Wt2y5H9zyhs)
+11. [Speed Up The Game](https://youtu.be/StkABxxXRNs)
+12. [Different Random Cars](https://youtu.be/IMj_JOuLPgY)
+13. [Adding Pause Button to Your Game](https://youtu.be/MjhH4M1B8HA)
+14. [Creating Game Menu](https://youtu.be/ZLwzQn7JPME)
+15. [Adding Score UI](https://youtu.be/X21ZhqvK66o)
+16. [GameOver Menu](https://youtu.be/sMcml44yliI)
+17. [Activating Buttons at Runtime](https://youtu.be/9_oBh-BzYG8)
+18. [Adding Car sound](https://youtu.be/Zqt_UBdpS34)
+19. [Audio Manager](https://youtu.be/cI1w1RxoIXw)
+20. [Convert Unity Game To Android](https://youtu.be/TJez3mAlgok)
+21. [Unity Scale Game To Different Screen Resolution/Size](https://youtu.be/iPiqYBMKrLs)
+22. [Unity Android Platform Specific Input Tutorial](https://youtu.be/xb-uz4V_ShA)
+23. [Unity Touch Button Input Tutorial](https://youtu.be/GVo-bNRp29k)
+24. [Unity Touch Input Tutorial](https://youtu.be/VLmJ08nLEjE)
+25. [Unity Android Accelerometer Input Tutorial](https://youtu.be/63bekE67Z6k)
+
